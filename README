@@ -1,47 +1,27 @@
-https://futures.tradingcharts.com/learning/stocks_to_use.html
-carryover 
-total use
-
-Nearby Prices vs. individual contract prices
-close
-total open interest
-
-Why are you studying corn and soy pricing models?
-Machine learning, data science, python, jupyter notebooks, 
-visualization, modeling, 
-
-PROCESS 
--EDA, explore the data, look at the trends (VISUALIZATION TOOLS)
--understand the underlying data
--understand the data-source
-
-PREDICTING PRICES AND PRICE MOVEMENTS
-
-MAKE A CODEBOOK
-
 DATA-SOURCE: 
 USDA - MONTHLY WORLD AGRICULTURAL SUPPLY AND DEMAND ESTIMATES
 -projections for Supply and Demand for various U.S crops
 --projected scarcity--> affects price movements in commodity markets
 
 "At any one time, there are multiple contracts open and the "Nearby" is the contract is the first one to expire. 
-
 The "Nearby" files show the "Close" price of the nearby contract.
 
-(using satelite imagery to improve model
-https://calmit.unl.edu/people/agitelson2/pdf/2013/RSE2013_MODIS_Corn_Yield.pdf)
+
+NOTES
+https://futures.tradingcharts.com/learning/stocks_to_use.html
+carryover 
+total use
+
+Nearby Prices vs. individual contract prices
+close, total open interest
 
 energy prices directly impact food prices (fuel costs for operating machinery), indirectly affect food prices through costs of fertilizers and chemical inputs
-
 decline in fuel consumption also biofuel consumption --> "downward pressure" on food commodities like on maize, edible oils, and 
 
 "strenghtening of U.S dollar --> depress commodity prices"
 10% USD
-
 USD/FPI * 1.1/1.05
-
 seasonality of food prices (highest right before harvest, lowest right after harvest) low stocks + supply or demand shocks --> unpredictable price changes
-
 Coefficient of variation = standard deviation divided by mean (no units)
 
 Commodity X
@@ -56,5 +36,16 @@ Getting roughed up by the invisible hand.
 Iron fist showing through the tattered velvet glove. 
 https://www.iisd.org/sites/default/files/publications/boom_or_bust_commodity.pdf 
 
-      
+Why are you studying corn and soy pricing models?
+Machine learning, data science, python, jupyter notebooks, 
+visualization, modeling, 
 
+PROCESS 
+-EDA, explore the data, look at the trends (VISUALIZATION TOOLS)
+-understand the underlying data
+-understand the data-source
+
+TO DO
+MAKE A CODEBOOK
+(using satelite imagery to improve model
+https://calmit.unl.edu/people/agitelson2/pdf/2013/RSE2013_MODIS_Corn_Yield.pdf)
